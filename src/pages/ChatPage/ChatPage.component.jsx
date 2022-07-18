@@ -20,12 +20,12 @@ export function ChatPage() {
         </div>
         <div className="chat-page__message-list-item">
           <Message
-            avatarBackgroundColor="red"
-            avatarText="DŠ"
-            displayName="Domagoj Štrekelj"
-            time="20:50"
+            avatarBackgroundColor="green"
+            avatarText="TS"
+            displayName="Toni Skender "
+            time="20:51"
           >
-            Ready for the trip? I'm so excited I couldn't sleep!
+            I'm so excited for the trip!
           </Message>
         </div>
       </div>
